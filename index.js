@@ -7,3 +7,12 @@ function addingEventListener() {
 
   input.addEventListener("click", clickAlert);
 }
+
+addingEventListener();
+
+// function addingEventListener() {
+//   document
+//     .getElementById("button")
+//     .addEventListener("click", () => alert("I was clicked!"));
+// }
+// addingEventListener()
